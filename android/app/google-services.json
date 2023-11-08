@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258333598834",
+    "project_id": "glazz-do",
+    "storage_bucket": "glazz-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258333598834:android:5accd4a62c09e8f2f4ceeb",
+        "android_client_info": {
+          "package_name": "glazz.solutions.mesp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAconVL6fDYXHhhpy4Q4SR2GkkucyxqK7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
