@@ -1,2 +1,7 @@
-# Glazz_ToDo
-A ToDo and Chat Application that developed using Flutterflow.
+# Glazz Do
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
